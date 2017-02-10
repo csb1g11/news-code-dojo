@@ -2,6 +2,7 @@
  -  Welcome to this code dojo!
  - The aim is to have fun, work with different people, and explore different approaches to a challenge over the next couple of hours
 - You can use whatever language your team decides
+- You will not be required to submit the code
 
 ### Layout
 - 15 minute setup and introduction (refreshments will be available)
